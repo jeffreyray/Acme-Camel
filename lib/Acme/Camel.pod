@@ -1,0 +1,72 @@
+=pod
+
+=head1 NAME
+
+Acme::Camel - We <3 dromedaries
+
+=head1 SYNOPSIS
+
+    use Acme::Camel;
+    
+    camel;
+   
+=head1 DESCRIPTION
+
+Prints 4 camels to the screen.
+
+A wrapper around Erudil's famous camel code script. L<http://www.perlmonks.org/?node_id=45213>
+
+    ^^`^^`                   ^`^7XXX7X XFXXXF^'^                   '^^'^^
+             .mm.                                           .mm.
+           .XXXXXXLm.        .mm.           .mm.        .mJXXXXXX.
+          .XXXXXXXXXXL      .XXX^XLmm   mmJX^XXX.      JXXXXXXXXXX.
+          JXXXXXXXXXXXL.   .XXXXXXXXXX XXXXXXXXXX.   .JXXXXXXXXXXXL
+        .JXXXXXXXXXXXXXXL. {XXXXXX^^^' `^^^XXXXXX} .JXXXXXXXXXXXXXXL.
+       .XXXXXXXXXXXXXXXXXXL XXXXXXL       JXXXXXX JXXXXXXXXXXXXXXXXXX.
+      mXXXXXXXXXXXXXXXXXXXXXXXXXXXX}     {XXXXXXXXXXXXXXXXXXXXXXXXXXXXm
+     JXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'     `XXXXXXXXXXXXXXXXXXXXXXXXXXXXXL
+    JXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX       XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXL
+    XXFXXXXXXXXXXXXXXXXXXXXXXXXXXX'       `XXXXXXXXXXXXXXXXXXXXXXXXXXX7XX
+    XX {XXXXXXXXXXXXXXXXXXXXXXXXF'         `7XXXXXXXXXXXXXXXXXXXXXXXX} XX
+    7X.{XXX}XXXXXXXXXXXXXXXX^7F'             `7F^XXXXXXXXXXXXXXXX{XXX}.XF
+     7}JXXF {XXX}XXXXX XXXXX                     XXXXX XXXXX{XXX} 7XXL{F
+       XXF  {XXX 7XXXX.{XXX}                     {XXX}.XXXXF XXX}  7XX
+      {XX'  {XX} `7XXX} XXX}                     {XXX {XXXF' {XX}  `XX}
+      {XX    7XX.  JXX' {XX'                     `XX} `XXL  .XXF    XX}
+       XX     ^XXmXX^'  {XX                       XX}  `^XXmXX^     XX
+       XX     .JXXX'     XX                       XX     `XXXL.     XX
+      .XX}    XXXXXLm    {XL                     JX}    mJXXXXX    {XX.
+      {XXX.   `^'`^^^'   {XXm                   mXX}   `^^^'`^'   .XXX}
+       ^^^                XXXXm               mXXXX                ^^^
+    XFXXXF^'^                   '^^'^^  ^^`^^`                   ^`^7XXX7X
+                         .mm.                    .mm.
+         .mm.        .mJXXXXXX.                .XXXXXXLm.        .mm.
+     mmJX^XXX.      JXXXXXXXXXX.              .XXXXXXXXXXL      .XXX^XLmm
+    XXXXXXXXXX.   .JXXXXXXXXXXXL              JXXXXXXXXXXXL.   .XXXXXXXXXX
+    `^^^XXXXXX} .JXXXXXXXXXXXXXXL.          .JXXXXXXXXXXXXXXL. {XXXXXX^^^'
+       JXXXXXX JXXXXXXXXXXXXXXXXXX.        .XXXXXXXXXXXXXXXXXXL XXXXXXL
+      {XXXXXXXXXXXXXXXXXXXXXXXXXXXXm      mXXXXXXXXXXXXXXXXXXXXXXXXXXXX}
+      `XXXXXXXXXXXXXXXXXXXXXXXXXXXXXL    JXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+       XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXL  JXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+       `XXXXXXXXXXXXXXXXXXXXXXXXXXX7XX  XXFXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+        `7XXXXXXXXXXXXXXXXXXXXXXXX} XX  XX {XXXXXXXXXXXXXXXXXXXXXXXXF'
+          `7F^XXXXXXXXXXXXXXXX{XXX}.XF  7X.{XXX}XXXXXXXXXXXXXXXX^7F'
+              XXXXX XXXXX{XXX} 7XXL{F    7}JXXF {XXX}XXXXX XXXXX
+              {XXX}.XXXXF XXX}  7XX        XXF  {XXX 7XXXX.{XXX}
+              {XXX {XXXF' {XX}  `XX}      {XX'  {XX} `7XXX} XXX}
+              `XX} `XXL  .XXF    XX}      {XX    7XX.  JXX' {XX'
+               XX}  `^XXmXX^     XX        XX     ^XXmXX^'  {XX
+               XX     `XXXL.     XX        XX     .JXXX'     XX
+              JX}    mJXXXXX    {XX.      .XX}    XXXXXLm    {XL
+             mXX}   `^^^'`^'   .XXX}      {XXX.   `^'`^^^'   {XXm
+           mXXXX                ^^^        ^^^                XXXXm
+   The use of a camel image in association with Perl is a trademark of O'Reilly &
+   Associates, Inc. Used with permission.
+
+=head1 AUTHORS
+
+Erudil L<http://www.perlmonks.org/?node_id=4677>
+
+Jeffrey Ray Hallock E<lt>jeffrey.hallock at gmail dot comE<gt>
+
+=cut
